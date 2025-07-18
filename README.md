@@ -4,6 +4,11 @@
 
 **TaskForge** is a task management system built with Django. It allows users to manage tasks, set deadlines, assign priorities, and track completion status. The application supports role-based user management, allowing workers to be assigned tasks based on their position and work type.
 
+https://task-forge-sq4b.onrender.com
+
+login: test 
+password: testtest1221
+
 This project was created to help IT professionals organize and track tasks within a project. It is built using Django and follows best practices for development.
 ![img_1.png](img_1.png)
 
@@ -81,3 +86,6 @@ To run the tests, use the following command:
 
 ```bash
   python manage.py test
+
+https://task-forge-sq4b.onrender.com
+
